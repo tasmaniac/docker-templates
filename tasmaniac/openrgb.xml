@@ -3,6 +3,7 @@
   <Name>tas-OpenRGB</Name>
   <GitHub>https://github.com/tasmaniac</GitHub>
   <Repository>tasmaniac/openrgb:master</Repository>
+  <Registry>https://hub.docker.com/r/bobbxxxxintb/docker-rmlint-unraid</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>bash</Shell>
