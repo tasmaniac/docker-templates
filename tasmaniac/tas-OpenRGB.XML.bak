@@ -3,7 +3,7 @@
   <Name>tas-OpenRGB</Name>
   <GitHub>https://github.com/tasmaniac</GitHub>
   <Repository>tasmaniac/openrgb:master</Repository>
-  <Registry>https://hub.docker.com/r/bobbxxxxintb/docker-rmlint-unraid</Registry>
+  <Registry>https://hub.docker.com/r/bobbintb/docker-rmlint-unraid</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>bash</Shell>
@@ -19,7 +19,7 @@ This project provides a tool to probe the SMBus.  This is a potentially dangerou
 As of now, only Gigabyte RGB Fusion 2.0 boards have been reported to have issues.</Overview>
   <Category>Tools:Utilities</Category>
   <WebUI>http://[IP]:[PORT:5800]/</WebUI>
-  <TemplateURL>https://github.com/tasmaniac/docker-templates/raw/main/tasmaniac/openrgb.xml</TemplateURL>
+  <TemplateURL>https://github.com/tasmaniac/docker-templates/raw/master/tasmaniac/tas-OpenRGB.XML</TemplateURL>
   <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/OpenRGB-P3R-256px.png</Icon>
   <ExtraParams>-e 'USER_ID'='0' -e 'GROUP_ID'='0'</ExtraParams>
   <PostArgs/>
